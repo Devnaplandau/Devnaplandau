@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Devnaplandau - A website developer
+- 👋 Hi, I’m @Devnaplandau - A Web Design Intern
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am++%40Devnaplandau;Welcome+to+my+repository)](https://git.io/typing-svg)
 
